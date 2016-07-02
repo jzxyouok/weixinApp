@@ -1,0 +1,41 @@
+<div class="container">
+			<div class="wrapper">
+				<div class="index-body">
+					<header class="index-hd">
+						<span>
+							<i class="yo-ico">&#xe631;</i>
+							<p>扫一扫</p>
+						</span>
+						<span>
+							<input type="text" id="inp-txt" placeholder="请输入"/>
+						</span>
+						<span>
+							<i class="yo-ico">&#xf0008;</i>
+						</span>
+					</header>
+					<div class="sun-view">
+					
+					</div>
+					<footer>
+						<ul class="ft">
+							<li>
+								<i class="yo-ico">&#xe608;</i>
+								<p>足球</p>
+							</li>
+							<li>
+								<i class="yo-ico">&#xf0085;</i>
+								<p>酒</p>
+							</li>
+							<li>
+								<i class="yo-ico">&#xe66d;</i>
+								<p>我的</p>
+							</li>
+							<li>
+								<i class="yo-ico">&#xe66e;</i>
+								<p>娱乐</p>
+							</li>
+						</ul>
+					</footer>
+				</div>
+			</div>
+		</div>

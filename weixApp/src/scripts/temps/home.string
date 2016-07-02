@@ -1,0 +1,14 @@
+<nav>
+	<i action-type="click-tab" class="active">发现</i>
+	<i action-type="click-tab">频道</i>
+	<i action-type="click-tab">订阅</i>
+	<i action-type="click-tab">我的</i>
+</nav>
+<div class="swiper-container">
+  <div class="swiper-wrapper">
+    <div class="swiper-slide">发现</div>
+    <div class="swiper-slide">频道</div>
+    <div class="swiper-slide">订阅</div>
+    <div class="swiper-slide">我的</div>
+  </div>
+</div>
